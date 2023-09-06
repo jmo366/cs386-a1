@@ -1,0 +1,3 @@
+Though the car can be self-driving, some users requested an autopilot feature so we added it. Since our initial software was only intened for the car to drive 
+itself, a new feature issue rose:
+- The car seems to completely take control after dirving more than 40 miles on Autopilot 
